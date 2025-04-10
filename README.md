@@ -1,19 +1,4 @@
 # project-catering
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
-package ProjekApk;
-
-/**
- *
- * @author Alwian
- */
-public class Apk extends javax.swing.JFrame {
-
-    /**
-     * Creates new form Apk
-     */
     public Apk() {
         initComponents();
     }
